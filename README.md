@@ -12,7 +12,7 @@
 
 <!-- 📄 The big shiny CV button -->
 <p align="center">
-  <a href="https://divyarajbaraiya.github.io/resume/CV_Divyaraj_Baraiya.pdf">
+  <a href="https://divyarajbaraiya.github.io/db-resume/CV_Divyaraj_Baraiya.pdf">
     <img src="https://img.shields.io/badge/%F0%9F%93%84%20Read%20My%20CV-Click%20here%2C%20it's%20a%20good%20one-6D5DF6?style=for-the-badge&labelColor=12141C" alt="Read my CV"/>
   </a>
 </p>
