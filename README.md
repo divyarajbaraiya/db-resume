@@ -77,9 +77,9 @@ I live on the **React / Next.js** front, defend the **Node.js / NestJS** back, a
 ## 📫 Summon Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyaraj-baraiya-416354129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@divyarajbaraiya05"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff" alt="Medium"/></a>
-  <a href="https://github.com/divyarajbaraiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/divyaraj-baraiya-416354129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@divyarajbaraiya05"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=fff" alt="Medium"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/divyarajbaraiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/></a>
   <a href="mailto:divyarajbaraiya05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/></a>
 </p>
 
